@@ -3,7 +3,7 @@
 Working through [Scikit-learn](http://scikit-learn.org/stable/) library to 
 Influenced heavily by Python Machine Learning (Sebastian Raschka) Chapter 3.
 
-##Please Note - many of these notebooks have now been revised and improved and are now over at [AI-Wales](https://github.com/AI-Wales), which is where i will be maintaining the code. 
+## Please Note - many of these notebooks have now been revised and improved and are now over at [AI-Wales](https://github.com/AI-Wales), which is where i will be maintaining the code. 
 
 ## Data
 Many of the examples use the [Iris Data Set](https://archive.ics.uci.edu/ml/datasets/iris), which comes bundled with Scikit-Learn. This is loaded, split into test:training sets and standardised before it is used for the modelling. 
